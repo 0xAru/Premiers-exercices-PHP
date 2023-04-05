@@ -57,6 +57,14 @@
       <li><a href="./pages/formulaires/formulairesExo4.php">Exercice 4</a></li>
     </ul>
     </section>
+    </section>
+    <h2>Expressions régulières:</h2>
+    <ul>
+      <li><a href="./pages/regex/regexExo1.php">Exercice 1</a></li>
+      <li><a href="./pages/regex/regexExo2.php">Exercice 2</a></li>
+      <li><a href="./pages/regex/regexExo3.php">Exercice 3</a></li>
+    </ul>
+    </section>
   </main>
 </body>
 
